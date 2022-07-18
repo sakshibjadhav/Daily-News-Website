@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 835,
+  "articles": [
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Amazon.com says unfairly targeted by U.S. antitrust bill - Reuters",
+      "description": "Amazon.com Inc <a href=\"https://www.reuters.com/companies/AMZN.O\" target=\"_blank\">(AMZN.O)</a> on Wednesday lambasted a bill in Congress barring tech giants from giving preference to their own businesses on their websites, saying it unfairly singles the retai…",
+      "url": "https://www.reuters.com/technology/amazoncom-says-unfairly-targeted-by-us-antitrust-bill-2022-06-01/",
+      "urlToImage": "https://www.reuters.com/resizer/SNMcxOZteTY-aYUMSe8I4hxQQ9s=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WRGISK6EEJKHPHBUQDTZIHW43U.jpg",
+      "publishedAt": "2022-06-01T10:02:00Z",
+      "content": "WASHINGTON, June 1 (Reuters) - Amazon.com Inc (AMZN.O) on Wednesday lambasted a bill in Congress barring tech giants from giving preference to their own businesses on their websites, saying it unfair… [+2402 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "Felicity Cloake",
+      "title": "From fast food to fine art: the US chef who helped ramen conquer the world",
+      "description": "Ivan Orkin spent years learning about Japanese cooking – and especially how to perfect the celebrated noodles. He reveals the secret to the perfect bowl“Ramen is one of the hardest things to make,” Ivan Orkin says with quiet authority. “Even now, I get it wro…",
+      "url": "https://amp.theguardian.com/food/2022/jun/01/ivan-orkin-king-ramen-us-chef-interview-japanese-culture-noodles",
+      "urlToImage": "https://i.guim.co.uk/img/media/ba1da460c321f936480f8ab09ba67fbf122cc587/0_117_4980_2989/master/4980.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=baeee1fac69b446cf73b2d16e39720bb",
+      "publishedAt": "2022-06-01T09:00:02Z",
+      "content": "Ramen is one of the hardest things to make, Ivan Orkin says with quiet authority. Even now, I get it wrong. I had come to this interview hoping Orkin, a god in the cult-like world of ramen, and star … [+7503 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Guide"
+      },
+      "author": "Sanjana Prakash",
+      "title": "iPhone 14 hands-on video shows dummy units of all four new models - Tom's Guide",
+      "description": "<ol><li>iPhone 14 hands-on video shows dummy units of all four new models  Tom's Guide\r\n</li><li>The iPhone 14 will have a new feature your Samsung has had since 2016  SamMobile - Samsung news\r\n</li><li>Should you upgrade from iPhone 13 to iPhone 14? THIS is …",
+      "url": "https://www.tomsguide.com/news/iphone-14-hands-on-video-shows-dummy-units-of-all-four-new-models",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/qG6RRQSMTkDJRzRvQcPni7-1200-80.jpg",
+      "publishedAt": "2022-06-01T04:30:06Z",
+      "content": "With just a few months left for the iPhone 14 and iPhone 14 Pro launch, many leaks are spilling the beans on what might be the design, the hardware and the specs that we might see on the coveted phon… [+2465 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "VentureBeat"
+      },
+      "author": "Tim Keary",
+      "title": "SecureAuth launches continuous passwordless authentication solution",
+      "description": "SecureAuth launches new passwordless authentication solution to continuously authenticate users in enterprise environments.",
+      "url": "https://venturebeat.com/2022/06/01/secureauth-launches-continuous-passwordless-authentication-solution/",
+      "urlToImage": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1312226998-e1647967926644.jpg?w=1200&strip=all",
+      "publishedAt": "2022-06-01T10:00:00Z",
+      "content": "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today!\r\nToday, … [+3475 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fast Company"
+      },
+      "author": "Talib Visram",
+      "title": "How much could renewable sources like solar and thermal shape our future energy needs?",
+      "description": "On this week’s ‘World Changing Ideas’: how a ‘sunlight refinery’ is producing green hydrogen, an alternative fuel for the future.\nRead Full Story",
+      "url": "https://www.fastcompany.com/90756680/how-much-could-renewable-sources-like-solar-and-thermal-shape-our-future-energy-needs",
+      "urlToImage": "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2022/06/p-1-90756680-how-much-could-renewable-sources-like-solar-and-thermal-shape-our-future-energy-needs.jpg",
+      "publishedAt": "2022-06-01T05:00:01Z",
+      "content": "Renewable energy is now cheaper than fossil fuels, and it’s less expensive to build and run a solar or wind farm than to operate a coal plant that already exists. That’s a huge win for cutting carbon… [+3499 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Xataka.com"
+      },
+      "author": "Eva Rodríguez de Luis",
+      "title": "Último día del 15% de descuento de MediaMarkt en su web: siete mejores ofertas en tecnología que todavía puedes comprar",
+      "description": "Si entras hoy a la web de MediaMarkt vas a encontrarte dos promociones muy top para comprar tecnología al mejor precio: los Outlet Days que terminan mañana y el 15% de descuento en toda la web que termina hoy (salvo Apple y consolas). Aprovecha las últimas ho…",
+      "url": "https://www.xataka.com/seleccion/ultimo-dia-15-descuento-mediamarkt-su-web-siete-mejores-ofertas-tecnologia-que-todavia-puedes-comprar",
+      "urlToImage": "https://i.blogs.es/34facb/dxo_0174_1/840_560.jpg",
+      "publishedAt": "2022-06-01T06:00:15Z",
+      "content": "Si entras hoy a la web de MediaMarkt vas a encontrarte dos promociones muy top para comprar tecnología al mejor precio: los Outlet Days que terminan mañana y el 15% de descuento en toda la web que te… [+3166 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Lever.co"
+      },
+      "author": null,
+      "title": "PhotoRoom Is Hiring a Senior Web Developer (WebAssembly, WebGL and React) in Paris",
+      "description": "TL;DR  We are looking for a passionate, curious, and driven Senior Web Developer who will take the lead in the new PhotoRoom web app. You will work together with our Senior Frontend Engineer and your impact will be huge. It is the opportunity to work on a p…",
+      "url": "https://jobs.lever.co/photoroom/ac3a361b-aa5e-479d-95d6-434d73e6eb33?lever-origin=applied&lever-source%5B%5D=Ycombinator",
+      "urlToImage": "https://lever-client-logos.s3.us-west-2.amazonaws.com/0218a30b-1e33-41d5-af20-24e359af06b2-1625477711116.png",
+      "publishedAt": "2022-06-01T07:00:31Z",
+      "content": "PhotoRoom develops cutting-edge technology that empowers entrepreneurs, small businesses, and merchants to easily create images that sell - leveraging deep learning. Our ambition: power the internets… [+4864 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gigazine.net"
+      },
+      "author": "@GIGAZINE",
+      "title": "PS5向け新VR「PlayStation VR2」は年内に量産開始して2023年初頭に発売すると有名アナリストが分析",
+      "description": "PlayStationブランドの開発・販売を担当するソニー・インタラクティブエンタテインメント(SIE)は2022年1月にPlayStation 5(PS5)向けの次世代VRシステム「PlayStation VR2(PS VR2)」を発表し、2月には最終デザインイメージを公開しています。香港に拠点を置くサプライチェーンアナリストのミンチー・クオ氏は、PS VR2は2022年下半期に約150万台が量産され、2023年第1四半期ごろの発売になると予想を報告しています。続きを読む...",
+      "url": "https://gigazine.net/news/20220601-playstation-vr2-1q23/",
+      "urlToImage": "https://i.gzn.jp/img/2022/06/01/playstation-vr2-1q23/00_m.jpg",
+      "publishedAt": "2022-06-01T04:00:00Z",
+      "content": "PlayStation(SIE)20221PlayStation 5(PS5)VRPlayStation VR2(PS VR2)2PS VR2202215020231\r\n(1/5)My latest supply chain check suggests that the assembler and several component providers of PS VR2 will start… [+1251 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "heise online"
+      },
+      "author": "Stephan Ehrmann",
+      "title": "heise-Angebot: Mac & i Heft 3/2022 jetzt vorab im heise-Shop​",
+      "description": "Themen: iCloud loswerden • VPN: Sicher durchs Netz • Apple Karten • KeePass • Urlaubsvideos • eSIM/Dual-SIM • Apple Configurator • All-in-one-Ladegeräte • ePA",
+      "url": "https://www.heise.de/news/Mac-i-Heft-3-2022-jetzt-vorab-im-heise-Shop-7126508.html",
+      "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/5/5/2/2/4/2/Aufmacher_fuer_Tickermeldung-8b460683947d75e5.png",
+      "publishedAt": "2022-06-01T10:00:00Z",
+      "content": "Die neue Mac &amp; i 3/22 gibt es einen Tag vor dem Verkaufsstart schon im Heise Shop wahlweise auf Papier (bis 9.6. versandkostenfrei) oder als PDF. Die Themen:\r\nApples iCloud, in der Basisversion k… [+11095 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "heise online"
+      },
+      "author": "Ben Schwan",
+      "title": "Kompakter Mac-Abspieler für Apple Music",
+      "description": "Wer den alten Mini-Player aus iTunes vermisst, kann sich einen kostenlosen Ersatz auf den Rechner holen. Was der Retro-Player genau kann.",
+      "url": "https://www.heise.de/news/Kompakter-Mac-Abspieler-fuer-Apple-Music-7126035.html",
+      "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/5/5/2/0/1/9/Screen_Shot_2022-05-30_at_12.33.31-3d9376478469fe40.png",
+      "publishedAt": "2022-06-01T08:57:00Z",
+      "content": "Als die Apple-Music-App noch iTunes hieß, gab es eine nützliche Funktion auf dem Mac: Den sogenannten MiniPlayer. Dieser erlaubte auf kompakter Fläche die Steuerung der aktuellen Musikwiedergabe. Ein… [+2171 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "heise online"
+      },
+      "author": "Ben Schwan",
+      "title": "Für Verlierertypen: Lederhülle kombiniert Siri Remote mit AirTag",
+      "description": "Wem die Apple-TV-Fernbedienung häufig zwischen die Couch rutscht, findet sie mit Apples UWB-Tracker künftig leichter wieder.",
+      "url": "https://www.heise.de/news/Fuer-Verlierertypen-Lederhuelle-kombiniert-Siri-Remote-mit-AirTag-7128593.html",
+      "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/5/5/3/3/3/3/nomadsiri-17259b06addf3c0d.jpg",
+      "publishedAt": "2022-06-01T09:59:00Z",
+      "content": "Als Apple im vergangenen Jahr endlich eine neue Fernbedienung für seine Multimediabox Apple TV einführte, vergaß der Hersteller leider eine nützliche Funktion: Die Einbindung der Siri Remote ins Find… [+2160 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "heise online"
+      },
+      "author": "Holger Zelder, Wolfgang Reszel",
+      "title": "Pro & Contra: Weg mit alten Apps?",
+      "description": "Apple wirft Apps, die schon länger nicht mehr aktualisiert wurden, aus dem Store. Ist das wirklich nötig?",
+      "url": "https://www.heise.de/meinung/Pro-Contra-Weg-mit-alten-Apps-7112462.html",
+      "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/5/4/9/2/0/5/Pro_Contra_hze-wre_2000x1125-5c13308db538b7af.jpg",
+      "publishedAt": "2022-06-01T08:45:00Z",
+      "content": "Apple hat kürzlich Entwickler mit über zwei Jahre nicht mehr gepflegten Apps angeschrieben und gebeten, diese zu aktualisieren. Dabei setzte Apple eine Frist von zunächst 30 Tagen, die der Konzern na… [+5019 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "heise online"
+      },
+      "author": "Mark Zimmermann",
+      "title": "heise+ | iPhones & Co verwalten: Apple Configurator im beruflichen oder privaten Einsatz",
+      "description": "Mit dem kostenlosen Programm können Sie sowohl im Unternehmen als auch privat Apple-Geräte – iPhones, iPads und Macs – aufsetzen, verwalten und auch reparieren.",
+      "url": "https://www.heise.de/ratgeber/iPhones-Co-verwalten-Apple-Configurator-im-beruflichen-oder-privaten-Einsatz-7124236.html",
+      "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/5/5/1/0/9/5/22_03_ims_ac2_aufmacher_3_farbe_01-4a29b78b8beb3ba1.jpg",
+      "publishedAt": "2022-06-01T05:30:00Z",
+      "content": "Inhaltsverzeichnis\r\nApple Configurator 2 (AC2) ist ein Tool, das für jedermann kostenlos im Mac App Store erhältlich ist ein Mac wird dafür allerdings vorausgesetzt. Das wenige MByte große Werkzeug i… [+2277 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Filipe Espósito",
+      "title": "Rare Apple-1 with original components and Woz’s signature going up for auction next week",
+      "description": "Apple-1 computers are quite rare, so it’s not unusual to see some of them going up for auction for high prices – especially when they’re in good condition. Now Jimmy Grewal, a famous Apple collector, will offer a rare Apple-1 with original components and Woz’…",
+      "url": "https://9to5mac.com/2022/05/31/apple-1-original-components-going-up-for-auction/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/05/Rare-Apple-1-auction.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2022-06-01T02:36:30Z",
+      "content": "Apple-1 computers are quite rare, so it’s not unusual to see some of them going up for auction for high prices especially when they’re in good condition. Now Jimmy Grewal, a famous Apple collector, w… [+1840 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Filipe Espósito",
+      "title": "Galaxy Z Flip 3 Review: An iPhone user’s perspective on the foldable Android phone￼",
+      "description": "I’m a very long-time iPhone user. In fact, I’ve never had an Android phone as my personal phone before. Although I had been curious about Android phones in the past, I was okay with Apple’s ecosystem. More recently, foldable smartphones have become a thing, a…",
+      "url": "https://9to5mac.com/2022/05/31/galaxy-z-flip-3-review-iphone-perspective/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/05/Galaxy-Z-Flip-3-review-01.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2022-06-01T00:30:03Z",
+      "content": "I’m a very long-time iPhone user. In fact, I’ve never had an Android phone as my personal phone before. Although I had been curious about Android phones in the past, I was okay with Apple’s ecosystem… [+10785 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Genbeta.com"
+      },
+      "author": "Antonio Vallejo",
+      "title": "Chrome sigue líder en el ranking de navegadores con más de 3.300 millones de usuarios y Safari le come terreno: así queda la lista",
+      "description": "Un nuevo estudio de Atlas VPN ha revelado la cifra de usuarios de los navegadores web más populares. Si bien Chrome sigue liderando con gran fuerza, Safari se ha coronado como el segundo navegador en superar la barrera de los 1.000 millones de usuarios, super…",
+      "url": "https://www.genbeta.com/navegadores/chrome-sigue-lider-ranking-navegadores-3-300-millones-usuarios-safari-le-come-terreno-asi-queda-lista",
+      "urlToImage": "https://i.blogs.es/64042d/840_560/840_560.jpg",
+      "publishedAt": "2022-06-01T10:58:13Z",
+      "content": "Un nuevo estudio de Atlas VPN ha revelado la cifra de usuarios de los navegadores web más populares. Si bien Chrome sigue liderando con gran fuerza, Safari se ha coronado como el segundo navegador en… [+1843 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MarketWatch"
+      },
+      "author": "Steve Goldstein",
+      "title": "Need to Know: The man who seized one of Argentina’s ships now warns there will be a wave of emerging-market defaults",
+      "description": "An emerging-market investing legend expects an epidemic of emerging market defaults,",
+      "url": "https://www.marketwatch.com/story/the-man-who-seized-one-of-argentinas-ships-now-warns-there-will-be-a-wave-of-emerging-market-defaults-11654080638",
+      "urlToImage": "https://images.mktw.net/im-555114/social",
+      "publishedAt": "2022-06-01T10:50:00Z",
+      "content": "Hes now expecting a debt epidemic. We are on the brink of an epidemic of emerging market defaults, the scale and scope of which will rival the debt crisis of the 1980s, he wrote in an op-ed in the Fi… [+5484 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "AppleInsider"
+      },
+      "author": "news@appleinsider.com (William Gallagher)",
+      "title": "Apple Watch remains the best seller as smartwatch market grows",
+      "description": "New research claims that global sales of smartwatches were up 13% in the first quarter of 2022, compared to last year, and that Apple Watch continues to have the largest share.The Apple Watch previously dominated smartwatch sales in 2021, and now new figures …",
+      "url": "https://appleinsider.com/articles/22/06/01/apple-watch-remains-the-best-seller-as-smartwatch-market-grows",
+      "urlToImage": "https://photos5.appleinsider.com/gallery/48669-95054-000-lead-Apple-Watch-xl.jpg",
+      "publishedAt": "2022-06-01T10:37:06Z",
+      "content": "AppleInsider is supported by its audience and may earn commission as an Amazon Associate and affiliate partner on qualifying purchases. These affiliate partnerships do not influence our editorial con… [+1805 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "AppleInsider"
+      },
+      "author": "news@appleinsider.com (William Gallagher)",
+      "title": "Apple moves iPad production to Vietnam to beat supply problems",
+      "description": "As China continues to recover from its COVID spikes and lockdowns, Apple has asked suppliers to shift more iPad production to Vietnam.China's zero-tolerance coronavirus measures have been effective, but the disruption caused by mass factory closures is contin…",
+      "url": "https://appleinsider.com/articles/22/06/01/apple-moves-ipad-production-to-vietnam-to-beat-supply-problems",
+      "urlToImage": "https://photos5.appleinsider.com/gallery/48668-95053-000-lead-iPad-xl.jpg",
+      "publishedAt": "2022-06-01T10:08:25Z",
+      "content": "AppleInsider is supported by its audience and may earn commission as an Amazon Associate and affiliate partner on qualifying purchases. These affiliate partnerships do not influence our editorial con… [+1680 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "AppleInsider"
+      },
+      "author": "news@appleinsider.com (Christine McKee)",
+      "title": "Apple iPad mini 6 plus AppleCare kits are up to $60 off for a limited time",
+      "description": "Apple Authorized Reseller B&H Photo is knocking up to $60 off iPad mini 6 plus AppleCare kits just in time for Father's Day.Apple's iPad mini 6 is on sale at B&H when bundled with AppleCareFor a limited time only, save up to $60 on Apple's latest iPad mini wh…",
+      "url": "https://appleinsider.com/articles/22/06/01/apple-ipad-mini-6-plus-applecare-kits-are-up-to-60-off-for-a-limited-time",
+      "urlToImage": "https://photos5.appleinsider.com/gallery/48667-95052-ipad-mini-6-sale-xl.jpg",
+      "publishedAt": "2022-06-01T05:21:15Z",
+      "content": "AppleInsider is supported by its audience and may earn commission as an Amazon Associate and affiliate partner on qualifying purchases. These affiliate partnerships do not influence our editorial con… [+1317 chars]"
+    }
+  ]
+}
